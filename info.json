@@ -1,9 +1,10 @@
 {
-  "Name": "ACS_BodyTemperX20",
-  "DisplayName": "Body Tempering x20",
-  "GameVersion": 1.177,
-  "Version": "1.0",
-  "Desc": "Increase Body Tempering speed by 20x for all cultivators.",
-  "Author": "GitHubModTemplate",
-  "Tags": ["Cultivation","Body","Balance"]
+    "Id": "ACS_BodyTemperX20",
+    "DisplayName": "Body Tempering x20",
+    "Author": "YourName",
+    "Version": "1.0",
+    "GameVersion": "1.177",
+    "Description": "Increase body tempering speed by 20x",
+    "AssemblyName": "",
+    "EntryMethod": ""
 }
